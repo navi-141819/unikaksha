@@ -1,0 +1,14 @@
+Sum and Difference
+
+a=int(input("enter a="))
+b=int(input("enter b="))
+print(a+b)
+print(a-b)
+
+Product and Division
+
+a=int(input("enter a="))
+b=int(input("enter b="))
+print(a*b)
+print(int(a/b))
+print(int(a%b))
